@@ -1,173 +1,166 @@
-# Hi, I'm Isrrael Toro 👋
+Hi, I'm Isrrael Toro 👋
+Aspiring QA Automation Engineer | Recent Graduate | Seeking Opportunities
+Welcome to my GitHub! I recently completed intensive QA automation training and I'm passionate about software quality. I'm actively seeking my first QA position where I can apply what I've learned and continue growing as a test automation professional.
 
-## QA Automation Engineer | Test Enthusiast | Continuous Learner
+🎓 My QA Training Background
+I completed comprehensive QA automation training through three specialized courses totaling over 100 hours of hands-on practice:
+Courses Completed:
 
-Welcome to my GitHub! I'm a QA professional passionate about building reliable, maintainable test automation frameworks. I specialize in API testing with Postman/Newman and UI automation with Cypress, with a strong focus on clean code, best practices, and comprehensive test coverage.
+Cypress Automation: Scratch to Pro + Frameworks with CI/CD (29.5 hours)
 
----
+Complete Cypress framework mastery
+Page Object Model implementation
+Custom commands and fixtures
+CI/CD integration with GitHub Actions
 
-## 🎯 About My Portfolio
 
-My portfolio is organized to demonstrate comprehensive testing knowledge from fundamental concepts to production-ready implementations. Each project serves a specific purpose in showcasing different aspects of QA automation:
+Postman: The Complete Guide - REST API Testing (17 hours)
 
-### 📚 Portfolio Structure
+REST API testing fundamentals
+Advanced Postman patterns
+Newman CLI automation
+Environment variables and scripting
 
-#### **Fundamental Projects**
-Projects focusing on core testing concepts and essential patterns:
-- **[basic-api-testing](https://github.com/tyraelw/basic-api-testing)** - Core API testing patterns with GET/POST requests
-- **[saucedemo-basic-tests](https://github.com/tyraelw/saucedemo-basic-tests)** - Essential Cypress commands and selectors
 
-#### **Intermediate Projects** 
-Projects demonstrating advanced patterns and techniques:
-- **[api-intermediate-testing](https://github.com/tyraelw/api-intermediate-testing)** - Complete CRUD operations with variable chaining
-- **[saucedemo-intermediate-tests](https://github.com/tyraelw/saucedemo-intermediate-tests)** - Custom commands and data-driven testing
+Software Testing from Scratch: MasterClass All-in-One (2025) (57 hours)
 
-#### **Advanced Projects**
-Production-ready implementations built during my intensive QA training:
-- **[cypress-ecommerce-testing](https://github.com/tyraelw/cypress-ecommerce-testing)** - Complete E2E suite with Page Object Model, CI/CD, and component testing
-- **[trello-api-testing](https://github.com/tyraelw/trello-api-testing)** - Professional API testing with Newman CLI, authentication, and comprehensive workflows
-- **[simple-grocery-store-api-testing](https://github.com/tyraelw/simple-grocery-store-api-testing)** - E-commerce flow automation with order management
+Software testing fundamentals
+Test case design and management
+QA methodologies and best practices
+Agile/Scrum team workflows
 
-### 🎓 My QA Journey
 
-I completed an intensive 4-month QA automation course (2024) where I built comprehensive testing frameworks and learned industry best practices. After completing my training, I organized my portfolio to demonstrate not only advanced implementations but also my understanding of fundamental concepts that underpin those complex patterns.
 
-**Why this structure?**
-- Shows comprehensive understanding at all levels
-- Demonstrates ability to explain concepts clearly
-- Proves I didn't just follow tutorials—I understand the fundamentals
-- Helps others learn from my organized progression
+Total Training: 103+ hours of specialized QA education
+Additional Support:
+I'm fortunate to have mentorship from an experienced programmer friend who guides me through best practices and helps me understand advanced concepts.
 
----
+📚 About My Portfolio
+After completing my training, I organized my GitHub portfolio to demonstrate both my advanced implementations and my understanding of fundamental concepts. This structure shows that I didn't just follow tutorials—I truly understand the principles behind the code.
+Portfolio Organization:
+🔹 Fundamental Projects
+Demonstrating core concepts and essential patterns:
 
-## 🛠️ Technical Skills
+basic-api-testing - Core API testing with GET/POST
+saucedemo-basic-tests - Essential Cypress commands
 
-### Test Automation
-- **API Testing:** Postman, Newman, REST APIs, JSON validation
-- **UI Testing:** Cypress, Selenium WebDriver, E2E testing
-- **Design Patterns:** Page Object Model, Custom Commands, Data-driven testing
+🔸 Intermediate Projects
+Applying advanced patterns and techniques:
 
-### Programming & Scripting
-- **Languages:** JavaScript, Python (basic)
-- **Test Frameworks:** Cypress, Postman, Newman
-- **Version Control:** Git, GitHub
+api-intermediate-testing - CRUD operations with variable chaining
+saucedemo-intermediate-tests - Custom commands and data-driven testing
 
-### CI/CD & DevOps
-- **CI/CD:** GitHub Actions, Jenkins pipelines
-- **Tools:** Docker basics, Newman CLI
-- **Reporting:** Allure Reports, Mochawesome, HTML reports
+🔥 Advanced Projects
+Production-ready implementations built during my training:
 
-### Testing Methodologies
-- Manual Testing & Test Case Design
-- Black Box Testing & Exploratory Testing
-- Smoke Testing & Regression Testing
-- API Testing & Integration Testing
-- End-to-End Testing
+cypress-ecommerce-testing - Complete E2E suite with POM and CI/CD
+trello-api-testing - Professional API testing with Newman
+simple-grocery-store-api-testing - E-commerce flow automation
 
----
 
-## 📊 Featured Projects
+🛠️ Technical Skills
+Test Automation
 
-### 🔥 Cypress E-Commerce Testing
-**Production-ready E2E testing suite with advanced patterns**
+API Testing with Postman & Newman
+UI Testing with Cypress
+Page Object Model design pattern
+Custom commands and reusable components
 
-- Page Object Model architecture
-- Custom commands library
-- Component testing
-- CI/CD with GitHub Actions
-- Video recording and screenshots
-- Multiple browser support
+Programming
 
-[View Project →](https://github.com/tyraelw/cypress-ecommerce-testing)
+JavaScript (test automation with Cypress & Postman)
+Git & GitHub (version control)
 
-### 🔥 Trello API Testing
-**Comprehensive API testing suite with professional workflow**
+Tools & Frameworks
 
-- Complete CRUD operations (27 tests)
-- Newman CLI integration
-- Dynamic variable management
-- CI/CD pipeline ready
-- Authentication handling
-- Smart board naming system
+Postman / Newman CLI
+Cypress E2E testing
+GitHub Actions (CI/CD basics)
+Visual Studio Code
 
-[View Project →](https://github.com/tyraelw/trello-api-testing)
+Testing Knowledge
 
-### 🔥 Simple Grocery Store API Testing
-**E-commerce flow automation with order management**
+Manual testing fundamentals
+Test case design
+Bug reporting and documentation
+REST API testing
+Smoke and regression testing
+Agile/Scrum basics
 
-- Complete shopping flow validation
-- Order creation and management
-- Product inventory testing
-- Authentication workflows
-- Error handling scenarios
 
-[View Project →](https://github.com/tyraelw/simple-grocery-store-api-testing)
+🌟 What I Bring to a QA Team
+Even without professional QA experience, I offer:
+✅ Strong Foundation - 100+ hours of specialized training
+✅ Self-Motivation - Built comprehensive portfolio independently
+✅ Quick Learner - Completed advanced courses successfully
+✅ Attention to Detail - Natural fit for QA mindset
+✅ Clean Code - Write maintainable, well-documented tests
+✅ Team Player - Experience collaborating with developers
+✅ Multilingual - Fluent in English, Spanish, and studying Japanese
 
----
+💼 Current Situation
+Current Role: Social Media Manager
+Previous Experience: Customer Service Representative
+Career Goal: Transition to QA Automation Engineer
+Availability: Ready for internship or junior QA position
+Location: Venezuela (Remote-friendly)
+I'm actively seeking opportunities to begin my QA career where I can:
 
-## 📈 GitHub Stats
+Apply my automation skills in a real-world environment
+Learn from experienced QA professionals
+Contribute to building quality software
+Grow into a skilled test automation engineer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyraelw&layout=compact&theme=radical)
 
----
+📫 Let's Connect!
+I'm eager to discuss how I can contribute to your QA team as a junior automation engineer.
 
-## 🎯 What I'm Currently Working On
+📧 Email: tyrael78w@gmail.com
+💼 LinkedIn: Isrrael Toro Alvarez
+🐙 GitHub: You're here! Feel free to explore my projects
 
-- 🔨 Building more advanced testing frameworks
-- 📚 Learning Playwright for modern web automation
-- 🚀 Exploring performance testing with K6
-- 🌱 Deepening API testing knowledge with GraphQL
-- 💼 Seeking internship/junior QA positions
 
----
+🎯 What I'm Currently Learning
 
-## 💼 Professional Background
+📚 Deepening my Cypress knowledge with real-world scenarios
+🔧 Exploring Playwright as an alternative to Cypress
+📊 Learning more about API testing patterns
+💡 Studying software development lifecycle (SDLC)
+🐛 Practicing bug reproduction and reporting
 
-**Current Role:** Social Media Manager (OnlyFans)
-- Managing multiple creator profiles with data-driven insights
-- Commission-based performance optimization
-- Analytics and reporting
 
-**Transitioning to:** QA Automation Engineer
-- Completed comprehensive 4-month QA testing certification
-- Built professional testing portfolio
-- Actively seeking QA opportunities
+💭 Why QA?
+I'm passionate about quality assurance because:
 
----
+I have a natural attention to detail (honed through customer service experience)
+I enjoy problem-solving and finding edge cases
+I love the satisfaction of catching bugs before users do
+I appreciate the blend of technical skills and analytical thinking
+I want to contribute to building reliable software that users can trust
 
-## 📫 Let's Connect!
 
-I'm actively seeking **internship or junior QA positions** where I can contribute my testing skills and continue growing as a QA professional.
-
-- 📧 **Email:** [tyrael78w@gmail.com](mailto:tyrael78w@gmail.com)
-- 💼 **LinkedIn:** [Isrrael Toro Alvarez](https://www.linkedin.com/in/isrrael-toro-alvarez-1019a4119/)
-- 🐙 **GitHub:** You're already here!
-
----
-
-## 🌟 Fun Facts
-
-- 🎓 Self-taught programmer who values continuous learning
-- 🔍 Detail-oriented with a passion for breaking things (in a good way!)
-- 📊 Data-driven decision maker
-- 🌍 Based in New York City
-- 💬 Fluent in English and Spanish
-
----
-
-## 📝 Testing Philosophy
-
-> "Good testing isn't about finding bugs—it's about preventing them. Great testing is about building confidence in the product."
-
+🌱 My Approach to Learning
 I believe in:
-- **Writing clear, maintainable tests** that serve as documentation
-- **Comprehensive coverage** from unit to E2E levels
-- **Automation that adds value**, not just for the sake of automation
-- **Continuous improvement** of testing processes and skills
-- **Collaboration** with developers to build quality from the start
 
----
+Learning by doing - Every project in my portfolio is built from scratch
+Understanding fundamentals - Not just copying code, but knowing why it works
+Clean documentation - Making my code readable for others
+Continuous improvement - Always seeking to learn new testing techniques
+Asking questions - Leveraging my mentor's expertise when stuck
 
-⭐ **If you find my projects helpful, please consider giving them a star!** ⭐
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss QA testing! 🚀
+📝 Fun Facts
+
+🎓 Self-taught in programming and testing
+🔍 I actually enjoy finding bugs
+🌍 Based in Venezuela
+💬 Trilingual: Spanish (native), English (fluent), Japanese (learning - まだまだです！)
+📚 In my free time, I enjoy studying languages, reading books, and gaming
+🎮 Gamer at heart - I bring the same attention to detail to testing as I do to finding game bugs!
+
+
+🙏 Acknowledgments
+Special thanks to my programmer friend who has mentored me throughout this learning journey and helped me understand complex concepts.
+
+⭐ If you're a recruiter or hiring manager looking for a motivated junior QA engineer with solid training, strong attention to detail, and a passion for quality, I'd love to chat!
+Thanks for visiting my profile! 🚀
