@@ -1,166 +1,197 @@
-Hi, I'm Isrrael Toro 👋
-Aspiring QA Automation Engineer | Recent Graduate | Seeking Opportunities
-Welcome to my GitHub! I recently completed intensive QA automation training and I'm passionate about software quality. I'm actively seeking my first QA position where I can apply what I've learned and continue growing as a test automation professional.
+# Hi, I'm Isrrael Toro 👋
 
-🎓 My QA Training Background
-I completed comprehensive QA automation training through three specialized courses totaling over 100 hours of hands-on practice:
-Courses Completed:
+**Aspiring QA Automation Engineer | Recent Graduate | Seeking Junior QA Opportunities**
 
-Cypress Automation: Scratch to Pro + Frameworks with CI/CD (29.5 hours)
+Welcome to my GitHub! I recently completed intensive QA automation training and I'm passionate about software quality. I'm actively seeking my first QA position where I can apply what I've learned and grow as a test automation professional.
 
-Complete Cypress framework mastery
-Page Object Model implementation
-Custom commands and fixtures
-CI/CD integration with GitHub Actions
+---
 
+## 🎓 My QA Training Background
 
-Postman: The Complete Guide - REST API Testing (17 hours)
+I completed comprehensive QA training through three specialized courses totaling **100+ hours** of hands-on practice:
 
-REST API testing fundamentals
-Advanced Postman patterns
-Newman CLI automation
-Environment variables and scripting
+### Courses Completed:
 
+**1. Cypress Automation: Scratch to Pro + Frameworks (29.5 hours)**
+- Cypress framework fundamentals
+- Page Object Model pattern implementation
+- Custom commands and fixtures
+- Basic CI/CD integration with GitHub Actions
 
-Software Testing from Scratch: MasterClass All-in-One (2025) (57 hours)
+**2. Postman: The Complete Guide - REST API Testing (17 hours)**
+- REST API testing fundamentals
+- Postman collections and environments
+- Newman CLI for automation
+- Variables and basic scripting
 
-Software testing fundamentals
-Test case design and management
-QA methodologies and best practices
-Agile/Scrum team workflows
+**3. Software Testing from Scratch: MasterClass (57 hours)**
+- Software testing fundamentals
+- Test case design and bug reporting
+- QA methodologies and best practices
+- Agile/Scrum basics
 
+**Total Training:** 103+ hours of specialized QA education  
+**Additional Support:** Mentorship from an experienced programmer who helps me understand best practices and advanced concepts.
 
+---
 
-Total Training: 103+ hours of specialized QA education
-Additional Support:
-I'm fortunate to have mentorship from an experienced programmer friend who guides me through best practices and helps me understand advanced concepts.
+## 📚 About My Portfolio
 
-📚 About My Portfolio
-After completing my training, I organized my GitHub portfolio to demonstrate both my advanced implementations and my understanding of fundamental concepts. This structure shows that I didn't just follow tutorials—I truly understand the principles behind the code.
-Portfolio Organization:
-🔹 Fundamental Projects
-Demonstrating core concepts and essential patterns:
+My GitHub demonstrates my learning progression from basic concepts to more advanced implementations. I organized my projects to show how I built my skills step-by-step during my 4-month training period.
 
-basic-api-testing - Core API testing with GET/POST
-saucedemo-basic-tests - Essential Cypress commands
+### Portfolio Structure:
 
-🔸 Intermediate Projects
-Applying advanced patterns and techniques:
+#### 🔹 Fundamental Projects
+Core skills and essential patterns:
+- **basic-api-testing** - REST API basics with GET/POST
+- **saucedemo-basic-tests** - Essential Cypress commands
 
-api-intermediate-testing - CRUD operations with variable chaining
-saucedemo-intermediate-tests - Custom commands and data-driven testing
+#### 🔸 Intermediate Projects  
+Applying automation patterns:
+- **api-intermediate-testing** - CRUD operations with variables
+- **saucedemo-intermediate-tests** - Custom commands and data-driven testing
 
-🔥 Advanced Projects
-Production-ready implementations built during my training:
+#### 🔥 Advanced Learning Projects
+Complex implementations completed during training:
+- **cypress-ecommerce-testing** - E2E suite with Page Object Model and basic CI/CD
+- **trello-api-testing** - API testing with Postman/Newman
+- **simple-grocery-store-api-testing** - E-commerce flow automation
 
-cypress-ecommerce-testing - Complete E2E suite with POM and CI/CD
-trello-api-testing - Professional API testing with Newman
-simple-grocery-store-api-testing - E-commerce flow automation
+*Note: My advanced projects demonstrate concepts I studied during training. I'm comfortable starting with fundamental-level work and growing into more complex implementations in a professional environment.*
 
+---
 
-🛠️ Technical Skills
-Test Automation
+## 🛠️ Technical Skills
 
-API Testing with Postman & Newman
-UI Testing with Cypress
-Page Object Model design pattern
-Custom commands and reusable components
+### Test Automation
+- **UI Testing:** Cypress (E2E automation)
+- **API Testing:** Postman, Newman CLI
+- **Design Patterns:** Page Object Model basics
+- **Custom Commands:** Reusable test components
 
-Programming
+### Programming & Tools
+- **JavaScript:** Test automation scripting
+- **Git:** Version control basics (commit, push, pull, branching)
+- **CI/CD:** Basic GitHub Actions setup (following tutorials)
+- **IDE:** Visual Studio Code
 
-JavaScript (test automation with Cypress & Postman)
-Git & GitHub (version control)
+### Testing Knowledge
+- Manual testing fundamentals
+- Test case design and execution
+- Bug reporting and documentation  
+- REST API testing concepts
+- Smoke and regression testing
+- Agile/Scrum basics
 
-Tools & Frameworks
+---
 
-Postman / Newman CLI
-Cypress E2E testing
-GitHub Actions (CI/CD basics)
-Visual Studio Code
+## 🌟 What I Bring to a QA Team
 
-Testing Knowledge
+Even without professional experience, I offer:
 
-Manual testing fundamentals
-Test case design
-Bug reporting and documentation
-REST API testing
-Smoke and regression testing
-Agile/Scrum basics
+✅ **Strong Foundation** - 100+ hours of specialized training  
+✅ **Self-Motivated** - Built portfolio independently over 4 months  
+✅ **Quick Learner** - Successfully completed advanced courses  
+✅ **Attention to Detail** - Natural QA mindset from customer service background  
+✅ **Clean Code** - Write readable, maintainable test scripts  
+✅ **Team Player** - Experience working with technical mentors  
+✅ **Multilingual** - Fluent in English and Spanish, studying Japanese
 
+---
 
-🌟 What I Bring to a QA Team
-Even without professional QA experience, I offer:
-✅ Strong Foundation - 100+ hours of specialized training
-✅ Self-Motivation - Built comprehensive portfolio independently
-✅ Quick Learner - Completed advanced courses successfully
-✅ Attention to Detail - Natural fit for QA mindset
-✅ Clean Code - Write maintainable, well-documented tests
-✅ Team Player - Experience collaborating with developers
-✅ Multilingual - Fluent in English, Spanish, and studying Japanese
+## 💼 Current Situation
 
-💼 Current Situation
-Current Role: Social Media Manager
-Previous Experience: Customer Service Representative
-Career Goal: Transition to QA Automation Engineer
-Availability: Ready for internship or junior QA position
-Location: Venezuela (Remote-friendly)
-I'm actively seeking opportunities to begin my QA career where I can:
+**Current Role:** Social Media Manager  
+**Previous Experience:** Customer Service Representative  
+**Career Goal:** Transition to QA Automation Engineer  
+**Availability:** Ready for internship or junior QA position  
+**Location:** Venezuela (Remote-ready)  
 
-Apply my automation skills in a real-world environment
-Learn from experienced QA professionals
-Contribute to building quality software
-Grow into a skilled test automation engineer
+### What I'm Looking For
 
+I'm seeking a junior QA position where I can:
+- Apply my automation fundamentals in real-world scenarios
+- Learn from experienced QA professionals  
+- Start with manual/exploratory testing and grow into automation
+- Contribute to building quality software
+- Develop into a skilled test engineer
 
-📫 Let's Connect!
-I'm eager to discuss how I can contribute to your QA team as a junior automation engineer.
+---
 
-📧 Email: tyrael78w@gmail.com
-💼 LinkedIn: Isrrael Toro Alvarez
-🐙 GitHub: You're here! Feel free to explore my projects
+## 📫 Let's Connect!
 
+I'm eager to discuss how I can contribute to your QA team.
 
-🎯 What I'm Currently Learning
+📧 **Email:** tyrael78w@gmail.com  
+💼 **LinkedIn:** [Isrrael Toro Alvarez](https://www.linkedin.com/in/your-profile)  
+🐙 **GitHub:** You're here! Explore my projects below
 
-📚 Deepening my Cypress knowledge with real-world scenarios
-🔧 Exploring Playwright as an alternative to Cypress
-📊 Learning more about API testing patterns
-💡 Studying software development lifecycle (SDLC)
-🐛 Practicing bug reproduction and reporting
+---
 
+## 🎯 Currently Learning
 
-💭 Why QA?
+- 📚 Practicing fundamental Cypress patterns through repetition
+- 🔧 Exploring different test automation approaches
+- 📊 Deepening API testing understanding
+- 💡 Studying real-world SDLC workflows  
+- 🐛 Improving bug reproduction and reporting skills
+
+---
+
+## 💭 Why QA?
+
 I'm passionate about quality assurance because:
 
-I have a natural attention to detail (honed through customer service experience)
-I enjoy problem-solving and finding edge cases
-I love the satisfaction of catching bugs before users do
-I appreciate the blend of technical skills and analytical thinking
-I want to contribute to building reliable software that users can trust
+- ✨ Natural attention to detail (from years in customer service)
+- 🔍 I enjoy problem-solving and finding edge cases
+- 🎯 I love preventing bugs before they reach users
+- 💻 Perfect blend of technical and analytical thinking
+- 🚀 I want to contribute to building reliable software
 
+---
 
-🌱 My Approach to Learning
+## 🌱 My Learning Philosophy
+
 I believe in:
 
-Learning by doing - Every project in my portfolio is built from scratch
-Understanding fundamentals - Not just copying code, but knowing why it works
-Clean documentation - Making my code readable for others
-Continuous improvement - Always seeking to learn new testing techniques
-Asking questions - Leveraging my mentor's expertise when stuck
+- **Learning by Doing** - Every project is built from scratch
+- **Understanding Fundamentals** - Not just copying code, knowing *why* it works
+- **Honest Self-Assessment** - Knowing what I know and what I'm still learning
+- **Clean Documentation** - Making code readable for teams
+- **Continuous Improvement** - Always seeking better testing techniques
+- **Asking Questions** - Leveraging mentorship when needed
 
+---
 
-📝 Fun Facts
+## 📝 Fun Facts
 
-🎓 Self-taught in programming and testing
-🔍 I actually enjoy finding bugs
-🌍 Based in Venezuela
-💬 Trilingual: Spanish (native), English (fluent), Japanese (learning - まだまだです！)
-📚 In my free time, I enjoy studying languages, reading books, and gaming
-🎮 Gamer at heart - I bring the same attention to detail to testing as I do to finding game bugs!
+- 🎓 Self-taught in programming and testing
+- 🔍 I actually enjoy finding bugs (it's satisfying!)
+- 🌍 Based in Venezuela, working remotely
+- 💬 Trilingual: Spanish (native), English (fluent), Japanese (learning - まだまだです！)
+- 📚 Free time: Studying languages, reading, and gaming
+- 🎮 Gamer mindset: Same attention to detail I bring to testing!
 
+---
 
-🙏 Acknowledgments
-Special thanks to my programmer friend who has mentored me throughout this learning journey and helped me understand complex concepts.
+## 🙏 Acknowledgments
 
-⭐ If you're a recruiter or hiring manager looking for a motivated junior QA engineer with solid training, strong attention to detail, and a passion for quality, I'd love to chat!
-Thanks for visiting my profile! 🚀
+Special thanks to my programmer friend who has mentored me throughout this journey and helped me understand complex concepts.
+
+---
+
+## ⭐ For Recruiters & Hiring Managers
+
+If you're looking for a **motivated junior QA engineer** with:
+- Solid training foundation
+- Strong attention to detail  
+- Willingness to learn
+- Passion for software quality
+
+**I'd love to chat!** 
+
+I understand I'm at the beginning of my QA career, and I'm excited to learn from experienced professionals while contributing quality work to your team.
+
+---
+
+**Thanks for visiting my profile! 🚀**
