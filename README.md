@@ -5,10 +5,30 @@ I build reliable test automation frameworks using Cypress and Postman, with expe
 
 ## 🚀 Featured Projects
 
+### [TodoMVC - E2E Testing Suite](https://github.com/tyraelw/todo-web-cypress)
+![Tests](https://img.shields.io/badge/tests-7%20passing-brightgreen) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+
+End-to-end testing suite for the TodoMVC React application using Custom Commands design pattern, covering the complete task management lifecycle.
+
+**Tech Stack:** Cypress | JavaScript ES6+ | Custom Commands | data-testid selectors  
+**Key Features:** 7 tests covering create, edit, filter, delete and toggle flows | DRY principle | Clean state management
+
+---
+
+### [PokéAPI - E2E Testing Suite](https://github.com/tyraelw/pokemon-web-cypress)
+![Tests](https://img.shields.io/badge/tests-12%20passing-brightgreen) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![POM](https://img.shields.io/badge/POM-Design_Pattern-blue)
+
+Comprehensive E2E testing suite for the PokéAPI documentation website with Page Object Model architecture, responsive testing across multiple viewports, and data-driven test scenarios.
+
+**Tech Stack:** Cypress | JavaScript ES6+ | Page Object Model | JSON Fixtures  
+**Key Features:** Navigation, documentation, and responsive test suites | .nextUntil() DOM pattern | Conditional state handling
+
+---
+
 ### [The Internet - Cypress Automation Suite](https://github.com/tyraelw/the-internet-cypress-automation)
 ![Tests](https://img.shields.io/badge/tests-50%20passing-brightgreen) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
-Comprehensive test automation suite with 50+ automated tests demonstrating Page Object Model architecture and data-driven testing patterns.
+Comprehensive test automation suite with 50 automated tests demonstrating Page Object Model architecture and data-driven testing patterns across multiple modules.
 
 **Tech Stack:** Cypress 13.x | JavaScript ES6+ | POM | JSON Fixtures  
 **Key Features:** Multi-module testing (login, checkboxes, dropdowns) | BasePage inheritance | Fixture-driven tests
@@ -50,7 +70,7 @@ E-commerce API testing suite with 45 automated tests covering authentication, ca
 **Test Automation**
 - UI Testing: Cypress (E2E, Component)
 - API Testing: Postman, Newman CLI
-- Design Patterns: Page Object Model
+- Design Patterns: Page Object Model, Custom Commands
 - Data-Driven Testing: JSON fixtures, dynamic data generation
 
 **Programming & Tools**
@@ -69,8 +89,8 @@ E-commerce API testing suite with 45 automated tests covering authentication, ca
 
 ## 📊 Portfolio Stats
 
-- **100+ Automated Tests** across multiple projects
-- **7 Test Automation Projects** demonstrating progression
+- **140+ Automated Tests** across multiple projects
+- **6 Test Automation Projects** demonstrating progression
 - **API + UI Coverage** with professional patterns
 - **Clean Architecture** using industry-standard design patterns
 
@@ -99,7 +119,7 @@ E-commerce API testing suite with 45 automated tests covering authentication, ca
 ## 📫 Let's Connect
 
 - 📧 **Email:** tyrael78w@gmail.com
-- 💼 **LinkedIn:** [Isrrael Toro Alvarez](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [Isrrael Toro Alvarez](https://www.linkedin.com/in/isrrael-toro-alvarez-1019a4119/)
 - 🐙 **GitHub:** Explore my projects below
 
 ---
